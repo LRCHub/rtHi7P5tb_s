@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不器用な男",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2026-02-26T10:19:35.523554Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不器用な男",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_不器用な男_カンザキイオリ.txt"
+    }
+  ]
+}
